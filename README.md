@@ -1,4 +1,4 @@
-# KataGo_Distributed_Colab
+# KataGo_Distributed_training_with_Colab
 
 Running KataGo Distributed Training with Colab Jupiter Notebook. 
 
