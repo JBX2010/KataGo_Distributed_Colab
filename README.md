@@ -10,3 +10,6 @@ Remember to register an account first: https://katagotraining.org/ and update yo
 
 username="myuser"
 password="mypassword"
+
+# KataGo_Distributed_training_with_Kaggle
+https://www.kaggle.com/jbx2010/katago-distributed-training-on-kaggle/edit
