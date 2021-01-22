@@ -14,4 +14,5 @@ password="mypassword"
 # KataGo_Distributed_training_with_Kaggle
 https://www.kaggle.com/jbx2010/katago-distributed-training-on-kaggle/edit
 
-# Update 2021-01-21 switching to KataGo stable branch (previous distributed branch) pre-compiled 1.8.0 executable.
+## Update 2021-01-21 
+Switching to KataGo stable branch (previous distributed branch) with pre-compiled 1.8.0 executable.
