@@ -1,7 +1,5 @@
 # KataGo_Distributed_training_with_Colab
 
-# Update 2021-01-21 switching to KataGo stable branch (previous distributed branch) pre-compiled 1.8.0 executable.
-
 Running KataGo Distributed Training with Colab Jupiter Notebook. 
 
 With just 1 click you are starting to contribute to the training of the world's most potential GO neural networks.
@@ -15,3 +13,5 @@ password="mypassword"
 
 # KataGo_Distributed_training_with_Kaggle
 https://www.kaggle.com/jbx2010/katago-distributed-training-on-kaggle/edit
+
+# Update 2021-01-21 switching to KataGo stable branch (previous distributed branch) pre-compiled 1.8.0 executable.
