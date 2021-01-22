@@ -9,6 +9,7 @@ https://colab.research.google.com/drive/1cxg1m2Dx-jReCGrMAAoE9mpCmlfBINTy?usp=sh
 Remember to register an account first: https://katagotraining.org/ and update your account username and password in the "".
 
 username="myuser"
+
 password="mypassword"
 
 # KataGo_Distributed_training_with_Kaggle
