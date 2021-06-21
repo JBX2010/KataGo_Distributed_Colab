@@ -1,3 +1,7 @@
+# NOTE: 
+
+Colab has now restricted the GPU usage. New users could probably run 2 hours a day and old users may run 4 hours a day. Need to disconnect voluntarily otherwise may result account being blocked. 
+
 # KataGo_Distributed_training_with_Colab
 
 Running KataGo Distributed Training with Colab Jupiter Notebook. 
